@@ -87,11 +87,12 @@ app.py
 ```
 
 If you we take a look at our database, we should have something like this:
-| id | nom       | prenom  | email                   |
-|:--:|-----------|---------|-------------------------|
-| 1  | Dupont    | Michel  | dupont.michel@gmail.com |
-| 2  | Frontino  | Alexis  | alexis.f@gmail.com      |
-| 3  | Chalifour | Mathieu | challifourm@gmail.com   |
+
+| id | nom       | prenom  | email                                             |
+|:--:|:---------:|:-------:|:-------------------------------------------------:|
+| 1  | Dupont    | Michel  | <span>dupont.michel</span>@<span>gmail.com</span> |
+| 2  | Frontino  | Alexis  | <span>alexis.f</span>@<span>gmail.com</span>      |
+| 3  | Chalifour | Mathieu | <span>challifourm</span>@<span>gmail.com</span>   |
 
 Then if you run you app and check the following url : ```http://localhost:5000/``` you qill see this :
 
