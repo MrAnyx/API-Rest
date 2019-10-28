@@ -94,25 +94,26 @@ If you we take a look at our database, we should have something like this:
 | 3  | Chalifour | Mathieu | challifourm@gmail.com   |
 
 Then if you run you app and check the following url : ```http://localhost:5000/``` you qill see this :
+
 ```json
 [
   {
-    "email": "dupont.michel@gmail.com,
+    "email": "dupont.michel@gmail.com",
     "id": 1,
     "nom": "Dupont",
     "prenom": "Michel"
   },
   {
-    "email": "alexis.f@gmail.com,
+    "email": "alexis.f@gmail.com",
     "id": 2,
     "nom": "Frontino",
     "prenom": "Alexis"
   },
   {
-    "email": "chalifourm@gmail.com,
+    "email": "chalifourm@gmail.com",
     "id": 3,
-    "nom": "Chalifour
-    "prenom": "Mathieu
+    "nom": "Chalifour",
+    "prenom": "Mathieu"
   }
 ]
 ```
