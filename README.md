@@ -1,13 +1,12 @@
 # API-Rest
 A quick introduction to create a REST API using Python
 
-
 ## Installation
 In order to create an REST API, you need to download Python 2.7+ or 3.4+ at least.
 Then, you will need different packages
-  - Flask
-  - PyMySQL
-  - python-dotenv
+* Flask
+* PyMySQL
+* python-dotenv
 
 After this, navigate to your project using the command prompt and enter the following commands:
 
