@@ -1,5 +1,6 @@
 # API-Rest
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/13d121fedd6b4237beae53c9ee31db28)](https://www.codacy.com/manual/MrAnyx/API-Rest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrAnyx/API-Rest&amp;utm_campaign=Badge_Grade)
+
 A quick introduction to create a REST API using Python
 
 ## Installation
