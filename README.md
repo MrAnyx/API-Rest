@@ -117,7 +117,3 @@ Then if you run you app and check the following url : ```http://localhost:5000/`
   }
 ]
 ```
-
-
-
-
