@@ -8,7 +8,7 @@ import os
 
 # Variables
 load_dotenv(find_dotenv())
-app = Flask(__name__)
+appqhsklhfjksdhlfkjhqdlksjfhlqksjdhflkjqsdhfjkqdhlkfjqhldjsfldjshfljkqsfhlkqlqjhdjqhfh = Flask(__name__)
 app.config['DEBUG'] = True
 app.env = "dev"
 
